@@ -1,0 +1,6 @@
+{
+  "name": "LeadCapture Pro",
+  "description": "Professional contact collection and lead capturing app with kiosk intake mode, CRM lead pipeline, and an administrative portal for analytics and lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
